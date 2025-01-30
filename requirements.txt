@@ -1,6 +1,6 @@
-openai
-python-dotenv
-pandas
-numpy
-scikit-learn
-nltk
+numpy>=1.23.5
+scipy>=1.6.0
+scikit-learn>=1.4.1
+pandas>=2.2.3
+python-dotenv>=1.0.0
+openai>=1.0.0
